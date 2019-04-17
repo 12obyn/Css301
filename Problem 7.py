@@ -1,4 +1,4 @@
-#Deshawn Smith
+#Deshawn Smith # Why is Deshawn's name here. Do not submit other people's code as your own. I will not give you credit for it.
 #4/9/2019
 
 #Problem 7 this will give you the sum of the positive numbers then subtract the negative odd
